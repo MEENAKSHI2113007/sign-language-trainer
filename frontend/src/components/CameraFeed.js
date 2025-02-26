@@ -182,3 +182,4 @@ const CameraFeed = ({ onCapture }) => {
     </div>
   );
 };
+export default CameraFeed;
