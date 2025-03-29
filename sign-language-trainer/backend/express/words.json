@@ -1,0 +1,117 @@
+
+[
+  {
+    "_id": {
+      "$oid": "67b2c047d6eea09dd9db4eee"
+    },
+    "word": "அம்மா",
+    "image": "/images/amma.jpg",
+    "characters": [
+      "அ",
+      "ம்",
+      "மா"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "67b2c047d6eea09dd9db4eef"
+    },
+    "word": "அப்பா",
+    "image": "/images/appa.jpg",
+    "characters": [
+      "அ",
+      "ப்",
+      "பா"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "67b2c047d6eea09dd9db4ef0"
+    },
+    "word": "பால்",
+    "image": "/images/paal.jpg",
+    "characters": [
+      "பா",
+      "ல்"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "67b2c047d6eea09dd9db4ef1"
+    },
+    "word": "வீடு",
+    "image": "/images/veedu.jpg",
+    "characters": [
+      "வீ",
+      "டு"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "67b2c047d6eea09dd9db4ef2"
+    },
+    "word": "காடு",
+    "image": "/images/kaadu.jpg",
+    "characters": [
+      "கா",
+      "டு"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "67b2c047d6eea09dd9db4ef3"
+    },
+    "word": "மரம்",
+    "image": "/images/maram.jpg",
+    "characters": [
+      "ம",
+      "ர",
+      "ம்"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "67b2c047d6eea09dd9db4ef4"
+    },
+    "word": "சாலை",
+    "image": "/images/saalai.jpg",
+    "characters": [
+      "சா",
+      "லை"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "67b2c047d6eea09dd9db4ef5"
+    },
+    "word": "நாள்",
+    "image": "/images/naal.jpg",
+    "characters": [
+      "நா",
+      "ள்"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "67b2c047d6eea09dd9db4ef6"
+    },
+    "word": "சங்கு",
+    "image": "/images/sangu.jpg",
+    "characters": [
+      "சா",
+      "ங்",
+      "கு"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "67b2c047d6eea09dd9db4ef7"
+    },
+    "word": "நீர்",
+    "image": "/images/neer.jpg",
+    "characters": [
+      "நீ",
+      "ர்"
+    ]
+  }
+]
